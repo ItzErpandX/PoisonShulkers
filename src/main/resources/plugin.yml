@@ -1,0 +1,10 @@
+name: PoisonShulkers
+description: Originally PyrsShulkers, expanded by ItzErpandX.
+main: eu.poisonbox.PoisonShulkers.Main
+version: 1.0
+api-version: 1.21
+website: https://github.com/ItzErpandX
+authors: [Pyr, ItzErpandX]
+commands:
+  shulkermanager:
+    aliases: [shulker, shulkerman]
